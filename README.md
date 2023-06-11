@@ -1,2 +1,2 @@
 # oibsip_task1
-IRIS FLOWER CLASSIFICATION
+Iris Flower Classification
